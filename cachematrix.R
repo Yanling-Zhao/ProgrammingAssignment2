@@ -1,4 +1,4 @@
-## First Set the input x as a matrix
+## First simply set the input x as a matrix
 ## and then set the solved value "s" as a null
 ## then changed every reference to "mean" to "solve"
 
